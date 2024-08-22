@@ -1,7 +1,7 @@
 #docker.io/kubeimages/logstash:7.14.0
-#kubeimages/logstash:7.14.0
+logstash:7.14.0
 #docker.io/kubeimages/filebeat:7.14.0
-kubeimages/filebeat:7.14.0
+#kubeimages/filebeat:7.14.0
 #docker.io/kubeimages/kibana:7.14.0
 #支持私库
 #opengrok/docker
