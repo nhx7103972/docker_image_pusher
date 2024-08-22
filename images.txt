@@ -1,7 +1,7 @@
-elasticsearch
-logstash
-filebeat
-kibana
+docker.io/libary/elasticsearch
+docker.io/kubeimages/logstash
+docker.io/kubeimages/filebeat
+docker.io/kubeimages/kibana
 #支持私库
 #opengrok/docker
 #支持指定架构
