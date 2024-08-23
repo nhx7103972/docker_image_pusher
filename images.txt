@@ -1,4 +1,4 @@
-kubesphere/ks-controller-manager:v3.4.1
+mirrorgooglecontainers/defaultbackend-amd64:1.4
 
 #支持私库
 #opengrok/docker
