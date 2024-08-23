@@ -1,6 +1,5 @@
 kubesphere/ks-controller-manager:v3.4.1
 
-
 #支持私库
 #opengrok/docker
 #支持指定架构
