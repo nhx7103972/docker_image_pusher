@@ -1,5 +1,4 @@
-kubesphere/devops-apiserver:ks-v3.4.1
-kubesphere/devops-controller:ks-v3.4.1
+kubesphere/opensearch-curator:v0.0.5
 
 #支持私库
 #opengrok/docker
