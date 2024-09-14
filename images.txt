@@ -1,5 +1,5 @@
 
-sonatype/nexus3:3.28.0
+sonarqube:8.9-community
 
 #支持私库
 #opengrok/docker
