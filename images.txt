@@ -1,5 +1,4 @@
-
-sonarqube:8.9-community
+kubesphere/builder-maven:v3.2.0
 
 #支持私库
 #opengrok/docker
