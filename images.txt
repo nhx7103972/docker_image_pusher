@@ -1,4 +1,6 @@
+
 libary/zookeeper:3.7.0
+
 #registry.k8s.io/metrics-server/metrics-server:v0.7.2
 
 #支持私库
